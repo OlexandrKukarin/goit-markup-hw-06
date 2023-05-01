@@ -446,6 +446,7 @@ display: flex;
 }
 .label-sub{
  position: relative;
+ margin-right: 24px;
 }
 .inp-email{
   position: absolute;
@@ -498,7 +499,7 @@ display: flex;
   width: 264px;
   height: 40px;
   padding-left: 16px;
-  margin-right: 24px;
+  
 
   font-size: 12px;
   line-height: 2;
@@ -719,7 +720,7 @@ background-color: var(--cornflower);
   margin-bottom: 4px;
 
   font-weight: 400;
-  font-weight: 12px;
+  font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
 
